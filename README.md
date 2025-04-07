@@ -53,14 +53,6 @@ An interactive dashboard to track bugs, severity levels, and resolution timeline
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaadMnyawi&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaadMnyawi&layout=compact" width="350"/>
-</p>
-
----
 
 <p align="center">
   💡 Always learning, always growing!
